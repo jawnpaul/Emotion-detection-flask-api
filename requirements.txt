@@ -18,7 +18,7 @@ grpcio==1.27.2
 h5py @ file:///tmp/build/80754af9/h5py_1593454119955/work
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 Keras-Preprocessing==1.1.0
 Markdown==3.1.1
 MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1594371495811/work
