@@ -39,7 +39,7 @@ pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
 PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
 requests @ file:///tmp/build/80754af9/requests_1592841827918/work
 requests-oauthlib==1.3.0
-rsa==4.0
+rsa==4.1
 scipy @ file:///tmp/build/80754af9/scipy_1592930510235/work
 six==1.15.0
 tensorboard==2.2.1
