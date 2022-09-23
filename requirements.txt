@@ -29,7 +29,7 @@ numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1596233707986/work
 oauthlib==3.1.0
 opt-einsum==3.1.0
 params-flow==0.8.2
-protobuf==3.12.3
+protobuf==3.18.3
 py-params==0.9.7
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
